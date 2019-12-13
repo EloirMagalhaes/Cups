@@ -8,7 +8,8 @@
 </head>
 <body>
 
-    <h1>Chegamos na view</h1>
+    <h1>Produtos</h1>
+    {{ dd($produtos) }}
 
 </body>
 </html>
